@@ -1,0 +1,4 @@
+/* hide bullets for checkbox lists rendered by markdown-it-task-lists*/
+.vp-doc ul.contains-task-list {
+  list-style: none;
+}
