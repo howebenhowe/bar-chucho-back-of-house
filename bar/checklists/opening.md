@@ -1,5 +1,7 @@
 # opening checklist
 
+## bartender
+
 - [ ] fill cheater bottles
   - [ ] juice
   - [ ] syrups
@@ -18,4 +20,19 @@
 - [ ] unwrap and replenish
   - straws
     - coasters
-    -
+
+## barback
+
+- [ ] break down all cardboard, dispose of on top of recycling bins
+- [ ] take out recycling & trash from morning, replace bags doubling blue bags
+- [ ] replenish & fold rags
+- [ ] replace oil wicks in candles, distribute around bar
+- [ ] refill water dispenser
+- [ ] fill cabinet with sani wipes, guest towels, and c folds for the night
+- [ ] replenish toilet paper
+- [ ] fill ice well
+- [ ] fill a half-pan with ice for nitro keg
+- [ ] turn on bathroom speakers, light candles
+- [ ] distribute menus to tables, bar, upstairs
+- [ ] wipe down bar top
+- [ ] unlock front doors
