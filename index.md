@@ -11,7 +11,4 @@ hero:
     - theme: alt
       text: kitchen
       link: /kitchen
-    - theme: alt
-      text: floor
-      link: /floor
 ---

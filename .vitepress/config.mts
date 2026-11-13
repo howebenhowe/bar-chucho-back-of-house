@@ -31,13 +31,6 @@ export default defineConfig({
 			},
 		},
 		sidebar: {
-			"/floor": {
-				base: "/floor/",
-				items: [
-					{ text: "opening checklist", link: "opening" },
-					{ text: "closing checklist", link: "closing" },
-				],
-			},
 			"/kitchen": {
 				base: "/kitchen/",
 				items: [{ text: "menu", link: "menu" }],
